@@ -1,6 +1,6 @@
 Задание для факультатива EPAM systems на ПМ-ПУ.
 Программа по функционалу похожа на
-
+http://pikabu.ru/story/na_reddit_proveli_potryasayushchiy_multipleernyiy_yeksperiment_4954997
 однако использует авторизацию по Cookies и временной интервал укорочен до 10 секунд.
 
 Архитектура такова:
